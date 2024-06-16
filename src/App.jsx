@@ -79,7 +79,7 @@ function App() {
       </div>
       <div className='result' ref={result}>
         {showEnglish && <h1 className='text-result'>{funText ? funText : "IF YOU MOVE YOU'RE GAY!"}</h1>}
-        {showIndonesia && <h1 className='text-result'>{funText ? funText : "Lu Gerak Lu Ganteng"}</h1>}
+        {showIndonesia && <h1 className='text-result'>{funText ? funText : "Lu Gerak Lu homo"}</h1>}
       </div>
     </>
   )
